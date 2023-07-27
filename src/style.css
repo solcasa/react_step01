@@ -1,0 +1,10 @@
+.App {
+    background: #ddd;
+    height: 100px;
+    overflow: hidden;
+}
+
+.App.on {
+    height: 0;
+    transition: 0.5s;
+}
